@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Genetically Modified Organisms
 
-You can use the [editor on GitHub](https://github.com/wdeaton/GMO-Introduction/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The topic for this blog is going to be about the specifics of what GMOs are. Hopefully this clarifies what GMOs are,how they came about, how they are made, and a general history of them. My challenging goal is to make this blog informative and unbiased. There is much debate about GMOs and I do not want to have a debate in this blog. We are specifically going to dive into what GMOs are. The last blog will be my opinions of GMOs after all my research, but first, we need to understand GMOs. To understand what GMOs are, one must know what GMO means. GMO stands for genetically modified organisms. Typically this is when you take desired genes from one organism and insert them into another organims. GMOs have been around for quite some time now and there are many kinds of GMOs out there today!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So when you are ready, let us dive in!
 
-### Markdown
+## Gmo History
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To view the first Blog, click here! [GMO History](https://wdeaton.github.io/Gmos-Blog/)
 
-```markdown
-Syntax highlighted code block
+## Gmo Science
 
-# Header 1
-## Header 2
-### Header 3
+To view the next Blog about GMOs click here! [GMO Science](https://wdeaton.github.io/Gmos-Blog-Science/)
 
-- Bulleted
-- List
+## Gmo Examples
 
-1. Numbered
-2. List
+To view this Blog, click here! [GMO Examples](https://wdeaton.github.io/GMOExamples/)
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+[Contact Information](https://wdeaton.github.io/Contact-Information/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[About](https://wdeaton.github.io/AboutPage/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wdeaton/GMO-Introduction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[References](https://wdeaton.github.io/References/)
