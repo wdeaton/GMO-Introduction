@@ -6,15 +6,15 @@ So when you are ready, let us dive in!
 
 ## Gmo History
 
-To view the first Blog, click here! [GMO History](https://wdeaton.github.io/Gmos-Blog/)
+To view Blog one, click here! [GMO History](https://wdeaton.github.io/Gmos-Blog/)
 
 ## Gmo Science
 
-To view the next Blog about GMOs click here! [GMO Science](https://wdeaton.github.io/Gmos-Blog-Science/)
+To view Blog two about GMOs, click here! [GMO Science](https://wdeaton.github.io/Gmos-Blog-Science/)
 
 ## Gmo Examples
 
-To view this Blog, click here! [GMO Examples](https://wdeaton.github.io/GMOExamples/)
+To view the Blog three, click here! [GMO Examples](https://wdeaton.github.io/GMOExamples/)
 
 ---
 
